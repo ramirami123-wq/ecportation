@@ -174,6 +174,130 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_rmpzaK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pfxRRh": {
+          "type": "heading",
+          "settings": {
+            "heading": "24-HOUR HYDRATION · INSTANT GLOW",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_iycmRh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A featherlight jelly cream that absorbs in seconds, locking in deep, lasting hydration. Powered by freeze-dried hydrolyzed collagen and niacinamide, it plumps, brightens, and restores that coveted glass-skin glow — from the very first use.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_MFj6pb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover the Glow",
+            "button_link": "shopify://products/medicube-jelly-cream-with-collagen-pink",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pfxRRh",
+        "text_iycmRh",
+        "button_MFj6pb"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1775054723_phpnelau3b4851c7MPO3ZN.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_H4Q9h6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fEKjyK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Real Results, Backed by Science 🌸",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_xUDFxU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In a clinical study, 100% of participants saw improvements in radiance, texture, and moisture retention within 24 hours. Formulated with hydrolyzed collagen, hydrolyzed elastin, niacinamide, and squalane — silicone-free, low-irritation, and safe for sensitive skin.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_3MMrPt": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Cream",
+            "button_link": "shopify://products/medicube-jelly-cream-with-collagen-pink",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fEKjyK",
+        "text_xUDFxU",
+        "button_3MMrPt"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1775054723_phpur2qpcafa1ovdSnl2gP.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1771850465e38b72c3": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "guarantees_Yj7NaV": {
       "type": "guarantees",
       "blocks": {
@@ -225,10 +349,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1771850465e38b72c3": {
-      "type": "_blocks",
-      "settings": {}
     }
   },
   "order": [
@@ -236,7 +356,9 @@
     "main",
     "product-recommendations",
     "1771945068374140eb",
-    "guarantees_Yj7NaV",
-    "1771850465e38b72c3"
+    "image_with_text_rmpzaK",
+    "image_with_text_H4Q9h6",
+    "1771850465e38b72c3",
+    "guarantees_Yj7NaV"
   ]
 }
