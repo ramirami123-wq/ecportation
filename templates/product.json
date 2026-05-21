@@ -165,15 +165,6 @@
         "padding_bottom": 36
       }
     },
-    "1771945068374140eb": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "custom_liquid_eQ4YBj": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -203,21 +194,11 @@
             "text_size": "typeset2",
             "secondary_color": false
           }
-        },
-        "button_MFj6pb": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover the Glow",
-            "button_link": "shopify://products/medicube-jelly-cream-with-collagen-pink",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_pfxRRh",
-        "text_iycmRh",
-        "button_MFj6pb"
+        "text_iycmRh"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -235,6 +216,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -274,21 +256,11 @@
             "text_size": "typeset2",
             "secondary_color": false
           }
-        },
-        "button_3MMrPt": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop the Cream",
-            "button_link": "shopify://products/medicube-jelly-cream-with-collagen-pink",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_fEKjyK",
-        "text_xUDFxU",
-        "button_3MMrPt"
+        "text_xUDFxU"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -306,6 +278,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -377,7 +350,6 @@
     "empty-space",
     "main",
     "product-recommendations",
-    "1771945068374140eb",
     "custom_liquid_eQ4YBj",
     "image_with_text_rmpzaK",
     "custom_liquid_Jr6pcj",
