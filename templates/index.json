@@ -258,22 +258,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "Is it suitable for all skin types?",
+            "text": "<p>Yes! The formula is dermatologist-tested, silicone-free, and gently formulated for all skin types — including sensitive skin. The hydrating jelly texture absorbs easily without feeling heavy, greasy, or irritating.</p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "How often should I use it?",
+            "text": "<p>Apply morning and night as the final step of your skincare routine (after cleansing, toning, and serum). In the morning, follow with SPF for daytime protection. Consistent daily use delivers the best long-term results.</p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "When will I see results?",
+            "text": "<p>In a clinical study, 100% of participants saw improvements in radiance, texture, and moisture retention within 24 hours of first use. Significant improvements in firmness, brightness, and skin barrier health typically appear after 2–4 weeks of consistent use.</p>"
           }
         }
       },
