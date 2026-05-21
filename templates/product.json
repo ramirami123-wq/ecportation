@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 16px 20px; background-color: #FAF1E8; border-radius: 12px; margin: 12px 0; line-height: 1.8; font-size: 15px; border-left: 4px solid #8B4156;\">\n  <div style=\"margin-bottom: 10px;\">💧 <strong>24-Hour Hydration</strong> — locks in deep moisture for a plump, refreshed look</div>\n  <div style=\"margin-bottom: 10px;\">✨ <strong>Brightens & Evens Tone</strong> — niacinamide reduces dullness and dark spots</div>\n  <div style=\"margin-bottom: 10px;\">🌸 <strong>Firms & Lifts</strong> — collagen + elastin restore bounce and elasticity</div>\n  <div>🛡️ <strong>Strengthens Skin Barrier</strong> — gentle, dermatologist-tested formula</div>\n</div>"
           }
         },
         "variant_picker": {
