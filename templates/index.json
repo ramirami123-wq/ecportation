@@ -23,7 +23,7 @@
             "heading": "The Glass-Skin Glow, In One Step ✨",
             "heading_size": "h0",
             "heading_tag": "h2",
-            "text": "A featherlight collagen jelly cream that hydrates, firms, and brightens your skin — instantly. Discover the Korean glow your routine has been missing.",
+            "text": "",
             "text_size": "typeset2",
             "button_label": "Shop Now →",
             "button_link": "shopify://products/medicube-jelly-cream-with-collagen-pink",
@@ -170,7 +170,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#d4a09a",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
