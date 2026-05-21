@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1775054656_phpvcebimn2a2qjeE6rznW.jpg",
+            "image": "shopify://shop_images/1775054656_phpk5fjmsi8rkkrfyK48pC.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "COLLAGEN · NIACINAMIDE · 24H GLOW",
@@ -26,7 +26,7 @@
             "text": "A featherlight collagen jelly cream that hydrates, firms, and brightens your skin — instantly. Discover the Korean glow your routine has been missing.",
             "text_size": "typeset2",
             "button_label": "Shop Now →",
-            "button_link": "",
+            "button_link": "shopify://products/medicube-jelly-cream-with-collagen-pink",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -70,6 +70,14 @@
             "price_size": "medium"
           }
         },
+        "text_gdbx3N": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "One step. 24 hours of hydration. A radiant, dewy, glass-skin finish.",
+            "text_style": "body"
+          }
+        },
         "rating_AN8Hkq": {
           "type": "rating",
           "settings": {}
@@ -85,7 +93,7 @@
         "custom_liquid_9wDUPc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ High-Frequency Sonic Power</span> – Delivers up to 31,000 vibrations per minute to effectively remove plaque and tartar.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Cordless & Rechargeable</span> – Convenient USB charging for easy, portable use anytime, anywhere.<br><br>\n\n<span style=\"font-weight: bold;\">🦷 Multiple Cleaning Modes</span> – Adjustable settings designed for sensitive gums and deep cleaning needs.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Waterproof & Easy to Clean</span> – Safe for use in the bathroom with a sleek, hygienic design.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 14px 18px; background-color: #FAF1E8; border-radius: 12px; margin: 12px 0; line-height: 1.8; font-size: 15px; border-left: 4px solid #8B4156;\">\n  <div>💧 <strong>24-Hour Hydration</strong> — deep, lasting moisture in every drop</div>\n  <div>✨ <strong>Brightens & Evens Tone</strong> — niacinamide for visible radiance</div>\n  <div>🌸 <strong>Firms & Lifts</strong> — collagen + elastin for bouncier skin</div>\n  <div>🛡️ <strong>Strengthens Skin Barrier</strong> — gentle, dermatologist-tested</div>\n</div>"
           }
         },
         "variant_picker_txHV9a": {
@@ -112,6 +120,7 @@
       },
       "block_order": [
         "title_7PbUaC",
+        "text_gdbx3N",
         "rating_AN8Hkq",
         "price_7c3cKU",
         "custom_liquid_9wDUPc",
@@ -120,7 +129,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "electric-teeth-cleaner-2-in-1",
+        "product": "medicube-jelly-cream-with-collagen-pink",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
